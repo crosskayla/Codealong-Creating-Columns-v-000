@@ -77,7 +77,7 @@ img, video, audio {
 /* Layout */
 
 .wrapper {
-  width: 680px;
+  width: 1080;
   margin: 0 auto;
   background: #eee;
 }
